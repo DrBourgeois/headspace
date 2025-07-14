@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/bg4.2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -27,10 +27,10 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: md
         margin:
           - mt-0
-          - mb-0
+          - mb-4
           - ml-0
           - mr-0
         padding:

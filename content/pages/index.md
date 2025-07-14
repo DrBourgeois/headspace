@@ -16,7 +16,7 @@ sections:
     title: >-
       I build portals, not products. I trace the edges of definitions and then step outside them.
     subtitle: >-
-      I’m a researcher, a media explorer, a designer of speculative systems and fragmented rhythms. This space is a threshold—between presence and absence, silence and signal, thought and glitch. Scroll if you’re ready to unravel.
+      I’m a researcher, a media explorer, a designer of speculative systems and fragmented rhythms. This space is a threshold—between presence and absence, silence and signal, thought and glitch.
     styles:
       self:
         height: auto
