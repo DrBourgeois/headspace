@@ -22,15 +22,15 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/about1.jpg
       altText: Hero image
     styles:
       self:
         height: auto
-        width: md
+        width: wide
         margin:
           - mt-0
-          - mb-4
+          - mb-12
           - ml-0
           - mr-0
         padding:
